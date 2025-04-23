@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# IDE settings
+.idea/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Django database and logs
+db.sqlite3
+*.log
+
+# Test coverage
+.coverage
+
+# Local environment variables
+.env
